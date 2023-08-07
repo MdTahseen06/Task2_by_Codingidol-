@@ -28,8 +28,8 @@ Hello, My name is <b><big>Md Tahseen</big></b>, and I am currently pursuing a <u
 <li>
 
   <a href="https://twitter.com/Md_Tahseen9?t=VezpePPlYLadfveZMszijQ&s=09">My twitter account. </a>
-</ul>
 </big>
+</ul>
 
 <p style= "font-size: 20px;color:black;text-align:center;"><span style='font-size:40px;'>&#9758;</span>
 Codingidol Task 2 </p>
