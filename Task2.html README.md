@@ -13,7 +13,7 @@
 <p style= "color:brown; font-family:Courier New ; font-size:20px"><b> 
 Hello, My name is <b><big>Md Tahseen</big></b>, and I am currently pursuing a <u>diploma in information technology</u>. I have a strong passion for this subject, and I am committed to gaining practical knowledge and skills in this field. I am always eager to learn and apply what I've learned in real-world scenarios.</p></b>
 
-<img src="https://images.app.goo.gl/wrPjNHaT1GcwHJaw5" alt="Picture" width="500" height="600">
+<img src="https://images.app.goo.gl/wrPjNHaT1GcwHJaw5" alt="Picture" width="80" height="90">
 
 <br>
 <big>
